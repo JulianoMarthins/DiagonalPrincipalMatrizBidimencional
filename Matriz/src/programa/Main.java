@@ -33,7 +33,7 @@ public class Main {
 			}
 
 		}
-		System.out.println("\nNúmeros negativos: ");
+		System.out.println("\nQuantidade de números negativos: ");
 
 		System.out.println(contador);
 		sc.close();
